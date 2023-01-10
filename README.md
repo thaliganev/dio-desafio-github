@@ -11,9 +11,7 @@ A tecnologia utilizada foi html.
 
 Abaixo prinstscreen do resultado:
 
-<img src="C:\Users\thali\AppData\Roaming\Typora\typora-user-images\image-20230109194447511.png" alt="image-20230109194447511" style="zoom:80%;" />
 
-<img src="C:\Users\thali\AppData\Roaming\Typora\typora-user-images\image-20230109194632662.png" alt="image-20230109194632662" style="zoom:80%;" />
 
 ## Links úteis
 
